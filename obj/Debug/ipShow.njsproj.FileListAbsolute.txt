@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ipShow\ipShow\obj\Debug\ipShow.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ipShow\ipShow\obj\Debug\ipShow.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\ipShow\ipShow\bin\Microsoft.NodejsTools.WebRole.dll
